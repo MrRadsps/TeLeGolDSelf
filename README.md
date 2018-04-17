@@ -8,6 +8,8 @@
 
 gitclone https://github.com/EndLessGod/TeLeGolDSelf.git
 
+cd TeleGolDSelf
+
 sudo chmod 777 launch.sh
 
 ./launch.sh install
