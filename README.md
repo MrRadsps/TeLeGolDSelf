@@ -6,7 +6,7 @@
 
 ** put your information in TeLeGolDSelf/bot.lua in line 14 & 15
 
-gitclone https://github.com/MrRadsps/TeLeGolDSelf.git
+git clone https://github.com/MrRadsps/TeLeGolDSelf.git
 
 cd TeleGolDSelf
 
